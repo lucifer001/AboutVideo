@@ -506,6 +506,7 @@
 				3D08D6431B14755B0019C274 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3D08D6441B14755B0019C274 /* Build configuration list for PBXNativeTarget "PlayFilmAndFpsTests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +515,7 @@
 				3D08D6461B14755B0019C274 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
