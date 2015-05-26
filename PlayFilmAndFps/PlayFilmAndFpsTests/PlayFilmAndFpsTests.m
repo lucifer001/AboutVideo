@@ -1,19 +1,19 @@
 //
-//  TestTests.m
-//  TestTests
+//  PlayFilmAndFpsTests.m
+//  PlayFilmAndFpsTests
 //
-//  Created by Tianyu on 15/5/18.
+//  Created by Tianyu on 15/5/26.
 //  Copyright (c) 2015年 com.hoolai. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface TestTests : XCTestCase
+@interface PlayFilmAndFpsTests : XCTestCase
 
 @end
 
-@implementation TestTests
+@implementation PlayFilmAndFpsTests
 
 - (void)setUp {
     [super setUp];

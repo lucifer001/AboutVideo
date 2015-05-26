@@ -14,10 +14,24 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3DDCECEB1B09D47E00EC5CFF"
-               BuildableName = "ProjectDemo.app"
-               BlueprintName = "ProjectDemo"
-               ReferencedContainer = "container:ProjectDemo.xcodeproj">
+               BlueprintIdentifier = "3D08D61D1B14755B0019C274"
+               BuildableName = "PlayFilmAndFps.app"
+               BlueprintName = "PlayFilmAndFps"
+               ReferencedContainer = "container:PlayFilmAndFps.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3D08D6361B14755B0019C274"
+               BuildableName = "PlayFilmAndFpsTests.xctest"
+               BlueprintName = "PlayFilmAndFpsTests"
+               ReferencedContainer = "container:PlayFilmAndFps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +42,24 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3D08D6361B14755B0019C274"
+               BuildableName = "PlayFilmAndFpsTests.xctest"
+               BlueprintName = "PlayFilmAndFpsTests"
+               ReferencedContainer = "container:PlayFilmAndFps.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3DDCECEB1B09D47E00EC5CFF"
-            BuildableName = "ProjectDemo.app"
-            BlueprintName = "ProjectDemo"
-            ReferencedContainer = "container:ProjectDemo.xcodeproj">
+            BlueprintIdentifier = "3D08D61D1B14755B0019C274"
+            BuildableName = "PlayFilmAndFps.app"
+            BlueprintName = "PlayFilmAndFps"
+            ReferencedContainer = "container:PlayFilmAndFps.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3DDCECEB1B09D47E00EC5CFF"
-            BuildableName = "ProjectDemo.app"
-            BlueprintName = "ProjectDemo"
-            ReferencedContainer = "container:ProjectDemo.xcodeproj">
+            BlueprintIdentifier = "3D08D61D1B14755B0019C274"
+            BuildableName = "PlayFilmAndFps.app"
+            BlueprintName = "PlayFilmAndFps"
+            ReferencedContainer = "container:PlayFilmAndFps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3DDCECEB1B09D47E00EC5CFF"
-            BuildableName = "ProjectDemo.app"
-            BlueprintName = "ProjectDemo"
-            ReferencedContainer = "container:ProjectDemo.xcodeproj">
+            BlueprintIdentifier = "3D08D61D1B14755B0019C274"
+            BuildableName = "PlayFilmAndFps.app"
+            BlueprintName = "PlayFilmAndFps"
+            ReferencedContainer = "container:PlayFilmAndFps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
